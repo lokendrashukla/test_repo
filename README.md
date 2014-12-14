@@ -18,8 +18,7 @@ Installation
 ============
 
 Download the code from the GIT. Use:
-$ git clone https://github.com/IssueCreatorshukla/issuecreator.git <destination folder>
-
+$ git clone https://github.com/lokendrashukla/test_repo.git <destination folder>
 
 From the command line, run the following command
 
